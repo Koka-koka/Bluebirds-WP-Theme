@@ -1,0 +1,277 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bluebirds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-06 21:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: bluebirds"
+
+#: comments.php:71
+msgid " By commenting you accept the"
+msgstr ""
+
+#: comments.php:72
+msgid " Privacy Policy"
+msgstr ""
+
+#: functions.php:314
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:174
+msgid "Add widgets here to appear in your footer copyright column."
+msgstr ""
+
+#: functions.php:144 functions.php:154 functions.php:164
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:134
+msgid "Add widgets here to appear in your header."
+msgstr ""
+
+#: functions.php:111
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:124
+msgid "Add widgets here to appear in your social icons column."
+msgstr ""
+
+#: template-parts/content-post.php:3
+msgid "Articles From"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Background"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Blog post background color"
+msgstr ""
+
+#. Name of the theme
+msgid "Bluebirds"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Bluebirds is the perfect theme for your personal blog. Simple and "
+"lightweight design, responsive rtl and translation ready. Compatible with "
+"elementor page builder, you can give your site a personal touch by changing "
+"the background colors and the accent color in the Customizer. It will enable "
+"you to create beatiful and easy editable blog site."
+msgstr ""
+
+#: comments.php:76
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:69
+msgid "Comment"
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:26
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comment on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Confirm"
+msgstr ""
+
+#: functions.php:173
+msgid "copyrightrules column"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Dropdown menu"
+msgstr ""
+
+#: inc/customizer.php:212
+msgid "Dropdown-menu active item color"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Dropdown-menu background color"
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "Dropdown-menu item color"
+msgstr ""
+
+#: inc/customizer.php:196
+msgid "Dropdown-menu item hover color"
+msgstr ""
+
+#: comments.php:68
+msgid "E-Mail"
+msgstr ""
+
+#: template-pages/front-page.php:19
+msgid "Featured Articles"
+msgstr ""
+
+#: functions.php:143
+msgid "Footer 1st column"
+msgstr ""
+
+#: functions.php:153
+msgid "Footer 2nd column"
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "Footer active menu color"
+msgstr ""
+
+#: functions.php:163
+msgid "Footer additional column"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Footer Colors"
+msgstr ""
+
+#: functions.php:22
+msgid "Footer menu"
+msgstr ""
+
+#: inc/customizer.php:279
+msgid "Footer menu color"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Footer menu hover color"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:222
+msgid "Hamburger Menu"
+msgstr ""
+
+#: inc/customizer.php:234
+msgid "Hamburger Menu icon color"
+msgstr ""
+
+#: functions.php:133
+msgid "Header additional column"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Header background color"
+msgstr ""
+
+#: functions.php:21
+msgid "Header menu"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Header Settings"
+msgstr ""
+
+#. Author of the theme
+msgid "Konstantine Merabishvili"
+msgstr ""
+
+#: template-parts/owl-slider.php:16
+msgid "Latest Articles"
+msgstr ""
+
+#: comments.php:64
+msgid "Leave a Comment"
+msgstr ""
+
+#: functions.php:110
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Menu active item color"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Menu background color"
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Menu item color"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Menu item hover color"
+msgstr ""
+
+#: comments.php:67
+msgid "Name"
+msgstr ""
+
+#. 1: title.
+#: comments.php:20
+#, php-format
+msgid "One Comment on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: template-parts/content-post.php:50
+msgid "Oops! That article can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:10
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: comments.php:74
+msgid "Registration isn't required."
+msgstr ""
+
+#: comments.php:65
+msgid "Reply"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Slider background color"
+msgstr ""
+
+#: functions.php:123
+msgid "Social Icons Column"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Tagline color"
+msgstr ""
+
+#: comments.php:70
+msgid "Website"
+msgstr ""
+
+#: functions.php:303
+msgid "Your comment is awaiting moderation."
+msgstr ""
